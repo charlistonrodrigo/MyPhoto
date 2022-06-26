@@ -15,9 +15,9 @@ Este procedimento e realizado apenas uma vez.
 ## Layout
 
 <p align="center">
-  <img width="600" src="MyFoto1.png">
-  <img width="600" src="MyFoto2.png">
-  <img width="600" src="MyFoto3.png">
+  <img width="800" src="MyFoto1.png">
+  <img width="800" src="MyFoto2.png">
+  <img width="800" src="MyFoto3.png">
 </P>
 
 ## Como execultar o projeto
